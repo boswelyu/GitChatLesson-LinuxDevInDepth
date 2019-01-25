@@ -8,7 +8,7 @@
 
 [第01课：细说系统调用规范，入行要先熟悉套路](https://gitbook.cn/gitchat/column/5bfbbe9b7d496f13396961de/topic/5c21aa444fcd483b0264eb19?utm_source=LinuxDevInDepth01)
 
-[第04课：理解进程内存排布，掌握程序动态](https://gitbook.cn/gitchat/column/5bfbbe9b7d496f13396961de/topic/5c21aa444fcd483b0264eb19?utm_source=LinuxDevInDepth04)
+[第04课：理解进程内存排布，掌握程序动态](https://gitbook.cn/gitchat/column/5bfbbe9b7d496f13396961de/topic/5c21ae1c4fcd483b0264eb98?utm_source=LinuxDevInDepth04)
 
 
 # 如何驾驶 Linux 这辆性能出色的越野车
