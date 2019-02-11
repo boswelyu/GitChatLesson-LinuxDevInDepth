@@ -1,0 +1,18 @@
+第一课：系统调用
+
+1. 中文版系统调用列表： https://www.ibm.com/developerworks/cn/linux/kernel/syscall/part1/appendix.html
+
+2. 本人的博客中也有一篇文章整理了Linux的所有系统调用，详细的内容还在逐步添加中，欢迎大家关注，我会不定时更新：
+https://blog.csdn.net/yubo112002/article/details/82792674
+
+3. 关于快速系统调用的介绍：https://www.ibm.com/developerworks/cn/linux/kernel/l-k26ncpu/index.html
+
+第二课：
+
+
+另外，学习Linux开发，有几本非常优秀的大部头，本课程的很多内容在这些大部头里面也有更加详细的描述，推荐大家一定要读一下：
+
+1. 大名鼎鼎的AUPE (Advanced Programming in the Unix Environment)，美国计算机科学家Richard Steven的作品，非常非常经典。
+
+2. 号称超越AUPE的另外一套教材 《Linux/Unix系统编程手册》，是德国一位资深的内核贡献者Michael Kerrish写的。德国人的严谨是举世闻名的，这本书的内容也一样。
+
